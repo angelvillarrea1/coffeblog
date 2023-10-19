@@ -1,0 +1,164 @@
+body{
+    color:black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 0 0;
+}
+ 
+.header-container
+{
+    text-align: center;
+    background-color: black;
+     padding-top: 30px; padding-bottom: 30px;
+     color: white;
+}
+
+.header-title {
+    font-size: 40px;
+}
+ 
+.header-text
+{
+    text-decoration: underline;
+}
+ 
+.topnav {
+    text-align: center;
+}
+   
+.topnav a {
+    font-size: 15px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+   
+.topnav a:hover {font-size: 15px;
+   text-decoration: none;  border: white solid 1px;
+   padding: 14px 16px;
+    color: white;
+}
+
+.btnlink
+{ 
+    background-color: rgb(0, 0, 0);
+    color: #FFFFFF;
+    padding: 10px 21px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px; 
+    opacity: 0.8;
+}
+
+.btnlink:hover
+{ 
+    color:white;
+    background-color:rgb(97, 39, 39);
+    opacity: 1;
+}
+
+.btnlinkInverse
+{ 
+    background-color:rgb(97, 39, 39);
+    
+    padding: 10px 21px;
+    color: #FFFFFF; 
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px; 
+     opacity: 0.8; 
+ 
+}
+.btnlinkInverse:hover
+{ 
+    color:white;
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+}
+ 
+
+.space30
+{   
+    height: 30px;
+}
+
+.main-blog-item
+{
+     text-align: left;
+     padding-bottom: 30px;
+}
+
+.main-blog-img
+{
+     width: 100%; 
+     text-align: center; 
+}
+
+.main-blog-title
+{
+    margin-left: 20px; font-size: 20px;
+}
+
+.main-blog-text
+{
+    font-size: 20px; padding-bottom: 10px;
+}
+
+.main-container
+{
+     text-align: justify;
+}
+
+
+.main-courses-item
+{ 
+    padding-top: 10px;    
+    padding-bottom: 20px;
+
+}
+
+.main-courses-subtitle
+{
+    font-size: 20px; font-weight: bold; 
+    margin-left: 20px;
+
+}
+.main-courses-title
+{
+    font-size: 25px; font-weight: bold; 
+    margin-left: 20px; padding-bottom: 10px;
+
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+.footer-container
+{
+
+    text-align: center;
+    background-color: black;
+     padding-top: 10px; padding-bottom: 20px;
+     color: white;
+}
+ 
+.bottomnav {
+    text-align: center;
+  }
+   
+  .bottomnav a {
+    font-size: 15px;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+   
+  .bottomnav a:hover {font-size: 15px;
+   text-decoration: underline; 
+   padding: 14px 16px;
+    color: white;
+  }
